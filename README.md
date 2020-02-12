@@ -1,5 +1,7 @@
 **PySEAL**
 
+This is for Python3
+
 In order to install and use the python wrapper to SEAL, run the following bash script
 
 1. cd to scripts and run "bash build-libs.sh" to build the library. 
